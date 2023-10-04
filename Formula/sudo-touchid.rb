@@ -5,7 +5,7 @@ class SudoTouchid < Formula
   desc "Permanent TouchID & Apple Watch support for `sudo`."
   homepage "https://github.com/Desousak/sudo-touchid"
   url "https://github.com/Desousak/sudo-touchid/archive/refs/tags/0.4.3.tar.gz"
-  sha256 "9d59ade86e3a89c35610f0cfbd27eb46b04457c0f1044273d1eff958da5794e4"
+  sha256 "9c27f15e3bef25748d6e52c55178ce979f494748db57cc8026c0a40c805ec7f2"
   license "EPL-2.0"
 
   def install
